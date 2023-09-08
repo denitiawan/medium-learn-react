@@ -1,2 +1,2 @@
-# learn-reactjsweb
-learning react.js for creating web application
+# Medium Learn React
+React repositories for my articles on medium blog
